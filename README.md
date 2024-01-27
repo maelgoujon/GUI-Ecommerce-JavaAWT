@@ -6,7 +6,7 @@ Cette application Java propose une expérience de commerce électronique axée s
 # Comment Utiliser
 1. Cloner le repository.
 2. Ouvrir le projet dans votre environnement de développement Java.
-3. Exécuter le fichier Main.java.
+3. Exécuter le fichier Application.java.
 
 # Point d'Entrée
 - Fichier : Application.java
