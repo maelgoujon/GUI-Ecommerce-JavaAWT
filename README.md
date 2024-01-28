@@ -1,6 +1,4 @@
 # Application de E-commerce - Vente de Sachets de Tomates
-
-# Aperçu
 Cette application Java propose une expérience de commerce électronique axée sur la vente de sachets de tomates. Elle offre plusieurs fonctionnalités, organisées à travers différentes fenêtres.
 
 # Comment Utiliser
