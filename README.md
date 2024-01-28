@@ -10,7 +10,7 @@ Cette application Java propose une expérience de commerce électronique axée s
 - Fichier : Application.java
 - Description : Point d'entrée de l'application, initialise et lance l'application.
 
-# Pages Principales
+# Fonctionnalités
 1. Fenêtre Produits
 - Description : Affiche une liste de noms de tomates dans un tableau.
 - Fichier : ProduitsWindow.java
